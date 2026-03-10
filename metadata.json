@@ -1,0 +1,5 @@
+{
+  "name": "AdminPanel",
+  "description": "Admin panel for managing products and orders for your Telegram bot shop.",
+  "requestFramePermissions": []
+}
